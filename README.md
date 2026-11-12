@@ -251,7 +251,7 @@ I am a Computer Engineering graduate interested in data analytics, business inte
 This project reflects my practical experience with Python, MySQL, and Power BI in an end-to-end data analytics workflow.
 
 **Connect with me:**
-- LinkedIn: `https://www.linkedin.com/in/jatinarora098/`
+- LinkedIn: `https://www.linkedin.com/in/himadri-sharma-62575829b/`
 - GitHub: `https://github.com/himadri28`
 
 ---
